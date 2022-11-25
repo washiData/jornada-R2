@@ -1,2 +1,3 @@
-# jornada R2
- primeiro repositorio
+jornada R2
+ primeiro repositório
+ primeira aula github
