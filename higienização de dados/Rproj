@@ -1,0 +1,9 @@
+dados<-data.frame(pais=c("Brasil","França", "Inglaterra", "Inglatera", "Holanda"), # nolint
+                  IDH=c(0.759,0.901,932,0.932,0.944), # nolint
+                  ano=c(2020,2020,2020,2020,"2020A"))  # Cria a tabela de dados # nolint
+dados  # nolint
+
+
+dados2<-data.frame(modelo_carro=c("Gol","Ford-Ka", "Ford Ka", "Saveiro", "HILUX"), # nolint
+                   Ano.carro=c(2020,2020,2020,2020,2021))  # Cria a tabela de dados # nolint
+dados2   # nolint
